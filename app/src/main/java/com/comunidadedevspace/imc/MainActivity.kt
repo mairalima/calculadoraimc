@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
             val alturaStr: String = edtAltura.text.toString()
 
             if (pesoStr == "" || alturaStr == ""){
-                Snackbar.make(edtPeso, "preencha todos os campos",
+                Snackbar.make(edtPeso, "Preencha todos os campos",
                 Snackbar.LENGTH_LONG
                 )
                     .show()
