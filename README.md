@@ -3,8 +3,9 @@ Este é um aplicativo Android nativo desenvolvido em Kotlin, projetado para calc
 
 
 ## :camera_flash: Screenshots
-<src img="https://github.com/user-attachments/assets/b7c99e39-dbb9-43cb-8c68-84c200ff95c0" witdh=260 /src>
-Screenshots
+<img src ="https://github.com/user-attachments/assets/b7c99e39-dbb9-43cb-8c68-84c200ff95c0" width=260 />
+
+<img src = "https://github.com/user-attachments/assets/f3b8b894-14f2-4470-b72c-9223c77e800d" width=260 />
 
 ## Tecnologias
 Techs
