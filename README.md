@@ -1,8 +1,9 @@
 # Calculadora IMC
-Desc
+Este é um aplicativo Android nativo desenvolvido em Kotlin, projetado para calcular o Índice de Massa Corporal (IMC) e exibir os resultados de forma clara e intuitiva. Com uma interface elegante e fácil de usar, esse aplicativo ajuda você a monitorar sua saúde de maneira prática. 💪📱
+
 
 ## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
+<src img="https://github.com/user-attachments/assets/b7c99e39-dbb9-43cb-8c68-84c200ff95c0" witdh=260 /src>
 Screenshots
 
 ## Tecnologias
