@@ -8,7 +8,17 @@ Este é um aplicativo Android nativo desenvolvido em Kotlin, projetado para calc
 <img src = "https://github.com/user-attachments/assets/f3b8b894-14f2-4470-b72c-9223c77e800d" width=260 />
 
 ## Tecnologias
-Techs
+- Activity
+- Intent
+- Snackbar
+- VeiwGroups 
+    - LinearLayout
+    - ConstraintLayout
+- Views
+  - ImageView
+  - TextView
+  -  EditText
+   - Button
 
 
 ## License
